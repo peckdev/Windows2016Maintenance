@@ -9,7 +9,7 @@ setlocal
 
 echo Starting Disk Cleaning...
 
-:: Define cleanup log file path
+
 set "logFile=%temp%\DiskCleanupLog.txt"
 
 :: Elevate privileges to run as administrator
